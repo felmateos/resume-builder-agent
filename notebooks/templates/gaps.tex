@@ -1,0 +1,63 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[margin=1.8cm]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+\setlength{\parindent}{0pt}
+\setlist[itemize]{noitemsep, topsep=0pt}
+
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{Gap Analysis}}\\
+    \vspace{0.2cm}
+    {\large {{ company_name }} — {{ job_title }}}\\
+    \vspace{0.1cm}
+    {\small Gerado em {{ generation_date }}}
+\end{center}
+
+\vspace{0.5cm}
+
+\section*{Resumo}
+
+Este documento lista os principais requisitos da vaga que o candidato
+ainda não atende plenamente, juntamente com sugestões objetivas
+para fechar cada lacuna.
+
+\vspace{0.4cm}
+
+\section*{Gaps Identificados}
+
+{% for gap in gaps %}
+\subsection*{ {{ loop.index }}. {{ gap.title }} }
+
+\textbf{Descrição:}  
+{{ gap.description }}
+
+\vspace{0.15cm}
+
+\textbf{Por que isso importa para a vaga:}  
+{{ gap.impact }}
+
+\vspace{0.15cm}
+
+\textbf{Como fechar esse gap:}
+\begin{itemize}
+{% for action in gap.actions %}
+    \item {{ action }}
+{% endfor %}
+\end{itemize}
+
+\vspace{0.3cm}
+{% endfor %}
+
+\section*{Observações Finais}
+
+Os gaps acima não representam impedimentos absolutos, mas sim
+oportunidades claras de desenvolvimento alinhadas à vaga analisada.
+A maioria pode ser mitigada com estudo direcionado e experiência prática
+em curto ou médio prazo.
+
+\end{document}
