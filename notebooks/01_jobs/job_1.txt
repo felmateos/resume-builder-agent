@@ -1,0 +1,82 @@
+Descrição da vaga
+
+Buscamos profissional com especialidade em aplicar Inteligência Artificial Generativa para integrar nossa equipe de projetos voltados ao atendimento ao cliente. Como integrante do time, será responsável por desenvolver e implementar globalmente soluções inovadoras utilizando principalmente tecnologias de IA generativa, contribuindo diretamente para otimizar nosso negócio e transformar a experiência do cliente através de soluções tecnológicas avançadas.
+
+Responsabilidades e atribuições
+
+Desenvolver de ponta a ponta soluções de negócio utilizando tecnologias de IA generativa e aprendizado de máquina;
+Utilizar ferramentas low/no-code como aceleradores do desenvolvimento e implementação de soluções;
+Identificar e implementar soluções técnicas otimizadas para atender requisitos específicos de projeto;
+Analisar sistematicamente oportunidades de melhoria contínua em sistemas já desenvolvidos;
+Maximizar a escalabilidade, desempenho, usabilidade e confiabilidade dos aplicativos desenvolvidos;
+Demonstrar iniciativa de aprendizado autônomo e atualização constante sobre novas tecnologias emergentes;
+Participar ativamente dos eventos Scrum e garantir comprometimento com cronogramas e entregas acordadas;
+Elaborar documentação técnica detalhada do projeto.
+
+Requisitos e qualificações
+
+Experiência profissional comprovada no desenvolvimento de chatbots, agentes de IA e sistemas autônomos utilizando modelos de linguagem avançados;
+Proficiência em programação Python e bibliotecas relacionadas a IA/ML;
+Experiência sólida no desenvolvimento e implementação de APIs RESTful;
+Proficiência na linguagem SQL;
+Compreensão dos fundamentos teóricos dos modelos generativos de linguagem e suas aplicações práticas;
+Conhecimento técnico em Engenharia de Prompt;
+Experiência com plataformas de computação em nuvem: Azure, Google Cloud ou AWS;
+Formação superior completa;
+Inglês avançado/fluente.
+
+Diferenciais:
+
+Experiência prática com Microsoft Power Platform, especialmente Copilot Studio, Power Apps e Power Automate;
+Desenvolvimento de agentes de voz utilizando tecnologias de IA generativa;
+Experiência em fine-tuning e contextualização de modelos de linguagem para casos de uso específicos;
+Familiaridade com Databricks e com ecossistema Azure (AI Foundry, AI services, Speech services, AI search e ML);
+Experiência profissional no setor de Consumer Packaged Goods (CPG);
+Já ter trabalhado sob a metodologia Agile e framework Scrum.
+
+Informações adicionais
+
+Vale refeição ou alimentação ifood;
+Vale transporte;
+Bônus;
+Plano de saúde e Telemedicina;
+Convênio odontológico;
+Convênio Farmácia;
+Seguro de vida;
+Instituto Ambev de Previdência Privada;
+Auxílio Material Escolar;
+Cesta de Natal e Kit Congelado;
+Brinquedos de Natal;
+Empresa cidadã (licença maternidade e paternidade) e presente do bebê;
+Desconto mensal em produtos AMBEV;
+Banco de horas;
+Wellhub (Gympass);
+Fretado;
+Abono anual referente a um salário.
+
+OLÁ, SOMOS A AMBEV TECH! 💛🍻💻
+
+Isso mesmo, o Hub de Tecnologia da Ambev!
+
+Somos responsáveis por impulsionar a transformação digital da Ambev. O match perfeito entre o portfólio da maior cervejaria do mundo e soluções de Data & Analytics, Cibersegurança, Infraestrutura, Suporte, Field, Engenharia e Arquitetura de Software. Contamos com cerca de 50 Squads, que atuam em mais de 100 produtos, e cada linha de código criada aqui conecta nossa paixão por tecnologia aos mais diversos brindes e suas razões.
+
+Do campo ao copo, entregamos soluções simples e escaláveis usando tecnologia de ponta para transformar o dia a dia de milhares de pessoas. E isso só é possível graças a um time incrível que faz acontecer, com inovação, senso de dono e muito orgulho de ser tech.
+
+PROTAGONIZAMOS SOLUÇÕES GLOBAIS
+
+Muitas das nossas soluções são escaladas para a Ambev Global Tech, hub de tecnologia da Anheuser-Busch InBev (AB InBev), multinacional de bebidas e cervejas, e para outras unidades de negócio da companhia. Com escritórios espalhados por países como Estados Unidos, México, Índia, Argentina e Brasil, estamos conectados a uma rede global de inovação e tecnologia para transformar a Ambev em uma plataforma que conecta pessoas e o ecossistema.
+
+NOSSO JEITO TECH DE SER
+
+Por aqui, sonhamos grande e sabemos a importância de ter equipes cada vez mais diversas. É através da pluralidade de ideias, experiências e opiniões que conseguimos pensar fora da caixa e criar soluções inovadoras. Por isso, contamos com nosso Comitê de Autenticidade Tech para olhar com muito carinho e responsabilidade todas as questões relacionadas à inclusão.
+
+QUER TRABALHAR COM A GENTE?
+
+Para atuar na Ambev Tech com projetos nacionais, temos unidades em Blumenau (SC), Maringá (PR), São Paulo (SP) e Jaguariúna (SP), e contamos também com um time remoto em vários cantos do Brasil e América Latina. Atuamos com os modelos de trabalho remoto, híbrido e presencial, que irão depender da especificação da vaga e de sua localidade, combinado?
+
+Para projetos internacionais, na Ambev Global Tech, a contratação acontece no modelo presencial, em Campinas (SP).
+
+Quer criar soluções que vão do campo ao copo, do código à mesa do bar? Vem com a gente e confira todas as nossas oportunidades!
+
+We’re here for tech and beer.
+

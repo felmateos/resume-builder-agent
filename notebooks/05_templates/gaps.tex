@@ -13,9 +13,9 @@
 \begin{center}
     {\LARGE \textbf{Gap Analysis}}\\
     \vspace{0.2cm}
-    {\large {{ company_name }} — {{ job_title }}}\\
+    {\large ((( company_name ))) — ((( job_title )))}\\
     \vspace{0.1cm}
-    {\small Gerado em {{ generation_date }}}
+    {\small Gerado em ((( generation_date )))}
 \end{center}
 
 \vspace{0.5cm}
@@ -28,30 +28,32 @@ para fechar cada lacuna.
 
 \vspace{0.4cm}
 
+((* if gaps *))
 \section*{Gaps Identificados}
 
-{% for gap in gaps %}
-\subsection*{ {{ loop.index }}. {{ gap.title }} }
+((* for gap in gaps *))
+\subsection*{((( loop.index ))). ((( gap.title )))}
 
-\textbf{Descrição:}  
-{{ gap.description }}
+\textbf{Descrição:}\\
+((( gap.description )))
 
 \vspace{0.15cm}
 
-\textbf{Por que isso importa para a vaga:}  
-{{ gap.impact }}
+\textbf{Por que isso importa para a vaga:}\\
+((( gap.impact )))
 
 \vspace{0.15cm}
 
 \textbf{Como fechar esse gap:}
 \begin{itemize}
-{% for action in gap.actions %}
-    \item {{ action }}
-{% endfor %}
+((* for action in gap.actions *))
+    \item ((( action )))
+((* endfor *))
 \end{itemize}
 
 \vspace{0.3cm}
-{% endfor %}
+((* endfor *))
+((* endif *))
 
 \section*{Observações Finais}
 
