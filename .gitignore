@@ -150,6 +150,17 @@ data/*/**
 #tex
 tex/*
 
+*.tex
+*.json
+*.txt
+*.log
+*.fls
+*.aux
+*.out
+*pdf
+*.gz
+*fdb_latexmk
+
 # Spyder project settings
 .spyderproject
 .spyproject
